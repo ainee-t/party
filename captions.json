@@ -1,0 +1,32 @@
+{
+ "win": [
+  "Mindannyian tudtuk.",
+  "A vádak beigazolódtak.",
+  "Egyetlen ember sem védte meg.",
+  "Ez nem meglepetés, ez statisztika.",
+  "A nép hangja: ő az.",
+  "A szavazatok nem hazudnak.",
+  "Az ügy lezárva, a bíróság elnapolva.",
+  "Nem is kellett sokat gondolkodni.",
+  "Ezt még a családod is aláírná.",
+  "Büszkék vagyunk rád… vagy aggódunk érted.",
+  "Hát persze, hogy ő.",
+  "Ennyi bizonyíték mellett nincs vita.",
+  "Végre elismerik a tehetségedet.",
+  "A társaság egyhangúlag… majdnem egyhangúlag döntött."
+ ],
+ "tie": [
+  "Közös bűnözők, közös dicsőség.",
+  "Mindannyian bűnösök. Ítélet: kocsmai kör.",
+  "A társaság nem tudott dönteni, mert mindegyikük egyformán gyanús.",
+  "Holtverseny – a baráti kör megosztott, a bizonyítékok nem.",
+  "Egyformán megérdemlitek.",
+  "A bíróság nem tudott dönteni, így mindenki ül."
+ ],
+ "none": [
+  "Senki sem mert szavazni. Gyávák.",
+  "Mindenki hallgat, mint a sír.",
+  "Ennyire nem érdekelt senkit?",
+  "A tanúk megtagadták a vallomást."
+ ]
+}

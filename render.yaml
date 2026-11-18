@@ -1,0 +1,9 @@
+# Render "Blueprint": egyetlen kattintásos telepítéshez (lásd DEPLOY.md). Kézi beállításhoz nem szükséges.
+services:
+  - type: web
+    name: ki-lenne-a-legvaloszinubb
+    runtime: node
+    plan: free
+    buildCommand: npm install --omit=dev
+    startCommand: npm start
+    healthCheckPath: /healthz
